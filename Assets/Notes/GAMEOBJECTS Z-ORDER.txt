@@ -1,0 +1,6 @@
+Listing of Z positions on objects: (Lower is less overlaps)
+
+Background (91) --> UI (90) --> Explosions (89) --> Bosses (88) --> Bullets (87)
+--> Enemies (86) --> Platforms (85) --> Player (84)
+
+

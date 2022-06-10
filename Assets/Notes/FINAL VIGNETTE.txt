@@ -1,0 +1,3 @@
+Currently, this shaders does not work on older Nvidia hardware on Linux build.
+If that's the case, please refrain from editing the shaders code or working with shader
+functionality.

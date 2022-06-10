@@ -1,0 +1,3 @@
+Step 1: Add a class that overrides Bullet (using the Bullet class itself is not recommended).
+Step 2: Deals with collision functions (OnCollisionEnter)
+Step 3: Enjoy

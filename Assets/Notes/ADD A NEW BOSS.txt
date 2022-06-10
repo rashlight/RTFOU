@@ -1,0 +1,4 @@
+Step 1: Declare a class that inherits BossBullets.
+Step 2: Add Bullet class properties, placing some empty GameObjects as summoners.
+Step 3: Add EntityPatterns with references to this BossBullet (to access summoners).
+Step 4: Enjoy.

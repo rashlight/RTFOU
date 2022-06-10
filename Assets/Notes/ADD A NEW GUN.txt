@@ -1,0 +1,6 @@
+Step 1: Declare a class that inherits Gun.
+Step 2: Overriding functions with prefix "On" (OnStart(), OnDisable(), ...)
+Step 3: Add a Bullet class into summonBullet 
+Step 4: Generate a new GunProperties script, then add it to the defaultGun variable.
+Step 5: Add sounds (AudioSource) objects.
+Step 6: Enjoy.
